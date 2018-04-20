@@ -1,0 +1,31 @@
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\bin\Debug\TryJira.exe
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\bin\Debug\TryJira.pdb
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\TryJira.exe
+c:\users\subho\documents\visual studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\TryJira.pdb
+C:\Users\Subho\Documents\Visual Studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\Subho\Documents\Visual Studio 2010\Projects\TryJira\TryJira\obj\x86\Debug\TryJira.csproj.ResolveComReference.cache
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\TryJira.csproj.ResolveComReference.cache
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\TryJira.exe
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\TryJira.pdb
+C:\Users\Subho\Desktop\TryJira\TryJira\bin\Debug\TryJira.exe
+C:\Users\Subho\Desktop\TryJira\TryJira\bin\Debug\TryJira.pdb
+C:\Users\Subho\Desktop\TryJira\TryJira\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Subho\Desktop\TryJira\TryJira\TryJira\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\Subho\Desktop\TryJira\TryJira\TryJira\obj\x86\Debug\TryJira.csproj.ResolveComReference.cache
+C:\Users\Subho\Desktop\TryJira\TryJira\TryJira\obj\x86\Debug\TryJira.exe
+C:\Users\Subho\Desktop\TryJira\TryJira\TryJira\obj\x86\Debug\TryJira.pdb
+C:\Users\Subho\Desktop\TryJira\TryJira\TryJira\bin\Debug\TryJira.exe
+C:\Users\Subho\Desktop\TryJira\TryJira\TryJira\bin\Debug\TryJira.pdb
+C:\Users\Subho\Desktop\TryJira\TryJira\TryJira\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Experian\TryJira\TryJira\TryJira\bin\Debug\TryJira.exe
+E:\Experian\TryJira\TryJira\TryJira\bin\Debug\TryJira.pdb
+E:\Experian\TryJira\TryJira\TryJira\obj\x86\Debug\Interop.MSXML2.dll
+E:\Experian\TryJira\TryJira\TryJira\obj\x86\Debug\TryJira.csproj.ResolveComReference.cache
+E:\Experian\TryJira\TryJira\TryJira\obj\x86\Debug\TryJira.csproj.CoreCompileInputs.cache
+E:\Experian\TryJira\TryJira\TryJira\obj\x86\Debug\TryJira.exe
+E:\Experian\TryJira\TryJira\TryJira\obj\x86\Debug\TryJira.pdb
+E:\Experian\TryJira\TryJira\TryJira\bin\Debug\TryJira.exe.config
+E:\Experian\TryJira\TryJira\TryJira\bin\Debug\RestSharp.dll
+E:\Experian\TryJira\TryJira\TryJira\bin\Debug\RestSharp.xml
